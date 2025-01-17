@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api-LoginReact", "Api-LoginReact\Api-LoginReact.csproj", "{DDDE2599-E76B-4FD4-A488-BF9B1999E1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDE2599-E76B-4FD4-A488-BF9B1999E1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDE2599-E76B-4FD4-A488-BF9B1999E1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDE2599-E76B-4FD4-A488-BF9B1999E1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDE2599-E76B-4FD4-A488-BF9B1999E1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1532F878-8476-4D9D-98A5-B04AB314072A}
+	EndGlobalSection
+EndGlobal
